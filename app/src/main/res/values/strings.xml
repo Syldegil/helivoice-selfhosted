@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HeliVoice</string>
+    <string name="ime_name">HeliVoice — dictée privée</string>
+    <string name="voice_subtype">Dictée française</string>
+</resources>

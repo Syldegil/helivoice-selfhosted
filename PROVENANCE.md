@@ -1,0 +1,3 @@
+# Provenance and notices
+
+Original Android client, minimal server and export adaptations: Syldegil, MIT (LICENSE). The bridge is extracted independently of the domestic assistant; no conversations, equipment integrations, automation or GPU image is included. Wyoming dependency is separately acquired from [rhasspy/wyoming](https://github.com/rhasspy/wyoming); retain its MIT notice when redistributing it. Gradle wrapper scripts retain Apache-2.0 notices; full Apache license in LICENSES/Apache-2.0. Android build tooling and any STT engine remain separately licensed. HeliBoard and Faster Whisper are integration references, not bundled or endorsed dependencies.
